@@ -61,6 +61,7 @@ a {
     color: var(--primary-dark);
     font-size: 16px;
     font-weight: 700;
+    white-space: nowrap;
 }
 
 /* Главный экран */
